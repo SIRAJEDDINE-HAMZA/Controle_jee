@@ -31,10 +31,11 @@
  <img src="https://user-images.githubusercontent.com/86418817/209121870-f47295d6-60b7-4949-8aa9-b0b4738c5ae2.png">
   <ul>Billing-Service</ul>
  <img src="https://user-images.githubusercontent.com/86418817/209122455-2077a795-572f-4b7c-9471-0443b7847d00.png">
-
 <h1><i>4-Partie Front Angular :</i><h1>
 <ul>Liste des produits</ul>
+  <img src="https://user-images.githubusercontent.com/86418817/209188094-d2a0302e-d628-4e14-a42b-bca243b08c24.png">
 <ul>Liste des clients</ul>
+  <img src ="https://user-images.githubusercontent.com/86418817/209187983-84697bad-75b2-4703-b545-ac1ca169065f.png" >
 <ul>Liste des factures d'un client</ul>
 <ul>Details d'une facture d'un client</ul>
 <h1><i>5-Keycloak :</i><h1>
